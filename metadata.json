@@ -1,0 +1,6 @@
+{
+  "name": "Modul Ajar Deep Learning Kurikulum Merdeka",
+  "description": "Generator dan penyusun Modul Ajar Deep Learning Kurikulum Merdeka komprehensif, terstruktur, berdiferensiasi (Mindful, Meaningful, Joyful).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
